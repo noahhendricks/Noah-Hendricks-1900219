@@ -47,4 +47,4 @@ else:
 
                 else:
                     Age = int(C_year - B_year)  # Age of the user is computed
-                    print('You are', Age, 'years old.')
+                    print('You are', Age, 'years old.\n')
