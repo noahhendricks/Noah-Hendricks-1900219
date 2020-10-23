@@ -31,3 +31,5 @@ Coding Problem 2:
    Part C: Users can get started with the project by typing in the location of the the text file in the user command prompt and searching for the new output file called "parsedDates".
 4. Users can contact the maintainer or the contributer(s) to get help with the project.
 5. I, Noah Hendricks, maintains and contributes to the project as well as Professor Ratner and his TA.
+
+Homework3 Folder contains assigned ZyLabs including chapters 10 and 11.
