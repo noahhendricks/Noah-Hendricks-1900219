@@ -32,4 +32,10 @@ Coding Problem 2:
 4. Users can contact the maintainer or the contributer(s) to get help with the project.
 5. I, Noah Hendricks, maintains and contributes to the project as well as Professor Ratner and his TA.
 
-Homework3 Folder contains assigned ZyLabs including chapters 10 and 11 which require key concepts within python using classes, lists, and dictionaries as well as their specific techniques.
+Homework3 Folder contains assigned ZyLabs including chapters 10 and 11 which require key concepts within python using classes, lists, and dictionaries as well as their specific techniques within each chapter.
+
+ZyLabs Chapter 10:
+1. Uses classes and its' particular means within the python coding language.
+
+ZyLabs Chapter 11:
+1. Uses lists and dictionaries and their particular means within the python coding language.
