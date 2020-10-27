@@ -22,6 +22,7 @@ Coding Problem 2:
 1. Part A: It's a program that reads dates from input, one date per line. Each date's format must be as follows: March 1, 1990. Any date not following that format is incorrect and            should be ignored. It outputs each correct date as: 3/1/1990.
 
    Part B: It's a modified program from Part A that reads all dates from an input file “inputDates.txt” and outputs only the correct formatted dates.
+   
    Part C: It's a program that parses all dates from the input file “inputDates.txt”, and it writes out the correct ones into an output file called: “parsedDates.txt”.
 2. Part A: The project is useful because it converts Dates from a letter/ number format mix to a professional integer format.
    Part B: The project is useful because it reads all input dates from an input file.
