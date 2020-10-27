@@ -7,6 +7,7 @@ README Files contain the following:
 5. Who maintains and contributes to the project?
 
 Homework1 Folder contains assigned ZyLabs from Chapters 1-5 as well as Coding Problem 1.
+
 Coding Problem 1 :
 
 1. Calculates the age of person based on current date and the birthday of the user and outputs it in the command prompt.
@@ -17,6 +18,7 @@ Coding Problem 1 :
 5. I, Noah Hendricks, maintains and contributes to the project as well as Professor Ratner and his TA.
 
 Homework2 Folder contains assigned ZyLabs from Chapters 6-9 as well as Coding Problem 2 Parts a,b,c.
+
 Coding Problem 2:
 
 1. Part A: It's a program that reads dates from input, one date per line. Each date's format must be as follows: March 1, 1990. Any date not following that format is incorrect and            should be ignored. It outputs each correct date as: 3/1/1990.
