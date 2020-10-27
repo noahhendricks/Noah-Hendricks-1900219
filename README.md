@@ -24,12 +24,19 @@ Coding Problem 2:
    Part B: It's a modified program from Part A that reads all dates from an input file “inputDates.txt” and outputs only the correct formatted dates.
    
    Part C: It's a program that parses all dates from the input file “inputDates.txt”, and it writes out the correct ones into an output file called: “parsedDates.txt”.
+   
 2. Part A: The project is useful because it converts Dates from a letter/ number format mix to a professional integer format.
+
    Part B: The project is useful because it reads all input dates from an input file.
+   
    Part C: The project is useful because it parses all dates from an input file and writes them out correctly in an output file.
+   
 3. Part A: Users can get started with the project by typing in a date in the correct format in the command prompt.
+
    Part B: Users can get started with the project by typing in the location of the the text file in the user command prompt.
+   
    Part C: Users can get started with the project by typing in the location of the the text file in the user command prompt and searching for the new output file called "parsedDates".
+   
 4. Users can contact the maintainer or the contributer(s) to get help with the project.
 5. I, Noah Hendricks, maintains and contributes to the project as well as Professor Ratner and his TA.
 
