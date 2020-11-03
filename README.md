@@ -50,3 +50,12 @@ ZyLabs Chapter 10:
 
 ZyLabs Chapter 11:
 1. Uses lists and dictionaries and their particular means within the python coding language.
+
+
+Homework4 Folder contains assigned ZyLabs including chapters 12 and 14 which require key concepts within python using exceptions, and searching and sorting algorithms as well as their specific techniques within each chapter.
+
+ZyLabs Chapter 12:
+1. Uses exceptions and its' particular means within the python coding language.
+
+ZyLabs Chapter 14:
+1. Uses searching and sorting algorithms and its' particular means within the python coding language.
